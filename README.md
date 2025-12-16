@@ -7,3 +7,9 @@
 ## 2. 사용 모델 및 방법론
 1. **Baseline**: TF-IDF + Logistic Regression
 2. **Proposed**: KoBERT Fine-tuning
+
+3. ## 3. 파일 설명
+- `news_predict_progress.ipynb`: 중간과정에 사용한 코랩 코드
+- `news_predictfianl.ipynb`: 최종적으로 사용한 코랩 코
+- `requirements.txt`: 실행에 필요한 라이브러리 목록
+- `Final_Report.pdf`: 최종 프로젝트 보고서
