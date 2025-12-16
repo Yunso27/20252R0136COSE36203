@@ -8,7 +8,7 @@
 1. **Baseline**: TF-IDF + Logistic Regression
 2. **Proposed**: KoBERT Fine-tuning
 
-3. ## 3. 파일 설명
+## 3. 파일 설명
 - `news_predict_progress.ipynb`: 중간과정에 사용한 코랩 코드
 - `news_predictfianl.ipynb`: 최종적으로 사용한 코랩 코
 - `requirements.txt`: 실행에 필요한 라이브러리 목록
