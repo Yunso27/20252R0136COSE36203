@@ -13,5 +13,5 @@
 - `news_predict_fianl.ipynb`: 최종적으로 사용한 코랩 코
 - `requirements.txt`: 실행에 필요한 라이브러리 목록
 - `Final_Report.pdf`: 최종 프로젝트 보고서
-- 'train_data.csv': dacon.io에서 다운 받은 파일로 따로 업로드 하지 않았음
+- `train_data.csv`: dacon.io에서 다운 받은 파일로 따로 업로드 하지 않았음
 - 출처 : https://dacon.io/competitions/official/235747/data
