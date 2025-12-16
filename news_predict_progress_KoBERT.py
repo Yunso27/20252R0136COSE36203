@@ -189,4 +189,5 @@ for epoch in range(EPOCHS):
     final_val_acc = val_acc # 마지막 에포크의 정확도를 저장
 
 print("===== 학습 완료 =====")
+
 print(f"*** 최종 테스트 정확도: {final_val_acc * 100:.2f}% ***")
